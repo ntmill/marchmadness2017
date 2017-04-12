@@ -1,4 +1,7 @@
-4/11/2017
+# Kaggle 2017 March Madness Competition
 
-created before 2017 March Madness tournament for Kaggle competition
-mistake discovered on the file that was ultimately submitted in SQL code - it has since been corrected
+Predicted the results of all possible combinations of NCAA Tournament games
+
+# History
+
+Mistake discovered in SQL code to generate the submission file was discovered after submission. That has since been corrected in the SQL code.
